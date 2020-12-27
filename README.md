@@ -9,6 +9,6 @@ Windows 10 kullananlar öncelikle graphics.h, libbgi.a ve winbgim.h dosyasını 
 İndirdiğimiz bu dosyalardan graphics.h ve winbgim.h dosyalarını:
 <br/><b>C:\Program Files (x86)\Dev-Cpp\MinGW64\include</b> ve
 <br/><b>C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include</b> içerisine bırakmalısınız.
-libbgi.a dosyasını ise
+<br/>libbgi.a dosyasını ise
 <br/><b>C:\Program Files (x86)\Dev-Cpp\MinGW64\lib</b> ve
 <br/><b>C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\lib</b> klasörü içerisine bırakmalısınız.
